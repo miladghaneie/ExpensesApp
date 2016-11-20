@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">حساب کتاب</string>
+    <string name="Hi">حساب کتاب</string>
+    <string name="welcome">به سامانه حساب و کتاب دانشجویی خوش آمدید</string>
+    <string name="google">ورود با گوگل</string>
+    <string name="twitter">ورود با توییتر</string>
+    <string name="or">یا</string>
+    <string name="Email">پست الکترونیک</string>
+    <string name="Pass">کلمه عبور</string>
+    <string name="SingUp">ثبت نام</string>
+    <string name="SingIn">ورود</string>
+    <string name="Forget">کلمه عبور خود را فراموش کردید؟</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
